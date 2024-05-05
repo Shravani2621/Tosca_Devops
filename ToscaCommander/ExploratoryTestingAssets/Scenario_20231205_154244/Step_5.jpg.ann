@@ -1,0 +1,48 @@
+2
+1920
+1200
+50
+<?xml version="1.0"?>
+<ArrayOfAnnotation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Annotation xsi:type="ArrowAnnotation">
+    <Bounds>
+      <Location>
+        <X>1607</X>
+        <Y>543</Y>
+      </Location>
+      <Size>
+        <Width>-20</Width>
+        <Height>-20</Height>
+      </Size>
+      <X>1607</X>
+      <Y>543</Y>
+      <Width>-20</Width>
+      <Height>-20</Height>
+    </Bounds>
+    <Color>-65536</Color>
+  </Annotation>
+  <Annotation xsi:type="TextAnnotation">
+    <Bounds>
+      <Location>
+        <X>1607</X>
+        <Y>529</Y>
+      </Location>
+      <Size>
+        <Width>61</Width>
+        <Height>29</Height>
+      </Size>
+      <X>1607</X>
+      <Y>529</Y>
+      <Width>61</Width>
+      <Height>29</Height>
+    </Bounds>
+    <Color>-65536</Color>
+    <Font>
+      <FontFamily>Calibri</FontFamily>
+      <Size>11</Size>
+      <Style>Bold</Style>
+      <Unit>Point</Unit>
+    </Font>
+    <Text>Click</Text>
+  </Annotation>
+</ArrayOfAnnotation>
