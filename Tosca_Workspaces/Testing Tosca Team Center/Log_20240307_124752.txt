@@ -1,0 +1,38 @@
+[3] 12:47:52: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Testing Tosca Team Center\Testing Tosca Team Center.tws'
+[3] 12:47:52: Log level: 4
+[3] 12:47:52: Release: 23.2.0.3226
+[3] 12:47:52: Execution Approval is disabled.
+[3] 12:47:52: No service discovery configured.
+[3] 12:47:52:  Save started!
+[3] 12:47:52: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:47:52: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:47:52: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:47:52: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:47:52: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:47:52: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:47:52:  Save finished!
+[4] 12:47:53:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 12:47:53:  Save started!
+[3] 12:47:53: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:47:53: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:47:53: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:47:53: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:47:53: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:47:53: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:47:53:  Save finished!
+[4] 12:47:53:  ShowStatusInfo: 'Workspace 'C:\Tosca_Projects\Tosca_Workspaces\Testing Tosca Team Center\Testing Tosca Team Center.tws' created successfully!'
+[4] 12:47:53:  ShowStatusInfo: 'Importing workspace template, please wait...'
+[4] 12:47:54:  ShowStatusInfo: 'Import Subset finalizing ...'
+[4] 12:47:54:  ShowStatusInfo: 'Import Subset finished'
+[3] 12:47:54: Task 'Import Subset' finished
+[4] 12:47:54:  ShowStatusInfo: 'Workspace template successfully imported!'
+[3] 12:47:54:  Save started!
+[3] 12:47:54: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:47:54: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:47:54: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:47:54: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:47:54: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:47:54: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:47:54:  Save finished!
+[3] 12:47:57: Closing Workspace!
+[3] 12:47:57: Log closed!

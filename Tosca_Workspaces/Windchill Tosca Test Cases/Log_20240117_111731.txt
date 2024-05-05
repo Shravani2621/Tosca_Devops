@@ -1,0 +1,159 @@
+[3] 11:17:31: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Windchill Tosca Test Cases\Windchill Tosca Test Cases.tws'
+[3] 11:17:31: Log level: 4
+[3] 11:17:31: Release: 23.2.0.3226
+[3] 11:17:31: Execution Approval is disabled.
+[3] 11:17:31: No service discovery configured.
+[3] 11:17:31:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.2.0.3226 (3226)
+    + : SAPSolutionManagerIntegration 23.2.0.3226 (3226)
+[3] 11:17:31: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 11:17:31: Searcher found 0 results in 2.0799 ms
+[3] 11:17:31:  + OptIntAddIn: OptIntAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + RemoteControl: RemoteControlAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + Reporting: ReportingAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + ReportingUI: ReportingUIAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + RequirementsManagementAddIn: RequirementsManagement 23.2.0.3226 (3226)
+[3] 11:17:31:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.2.0.3226 (3226)
+[3] 11:17:31:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + TestCaseDesign: TestCaseDesign 23.2.0.3226 (3226)
+[3] 11:17:31:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.2.0.3226 (3226)
+[3] 11:17:31:  + XDefinitions: XDefinitions 23.2.0.3226 (3226)
+[3] 11:17:31:  + XDefinitionsUI: XDefinitionsUI 23.2.0.3226 (3226)
+[3] 11:17:31: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Windchill Tosca Test Cases\Windchill Tosca Test Cases.tws'
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:17:32:  ShowStatusInfo: 'Ready'
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:17:32:  ShowStatusInfo: 'Ready'
+[4] 11:17:32:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:17:32:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:17:32:  ShowStatusInfo: 'Ready'
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:17:32:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:17:33:  ShowStatusInfo: 'Ready'
+[4] 11:17:33:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:17:33:  ShowStatusInfo: 'Refresh all finished'
+[3] 11:17:33: OpenWorkspace took 00:00:03.0956226 to finish
+[2] 11:17:33: Common repository is not available
+[4] 11:17:34:  ShowStatusInfo: 'Ready'
+[4] 11:17:34:  ShowStatusInfo: '1 object selected'
+[4] 11:17:35:  ShowStatusInfo: 'Ready'
+[4] 11:17:35:  ShowStatusInfo: '1 object selected'
+[4] 11:17:36:  ShowStatusInfo: 'Ready'
+[4] 11:17:36:  ShowStatusInfo: '1 object selected'
+[4] 11:17:36:  ShowStatusInfo: 'Ready'
+[4] 11:17:44:  ShowStatusInfo: '1 object selected'
+[4] 11:17:44:  ShowStatusInfo: 'Ready'
+[3] 11:17:45: Task 'Run in ScratchBook' started on '/TestCases/Usecase_test_01-Search and open the relevant Part/Widnchill accessing documents'
+[4] 11:17:45:  ShowStatusInfo: 'Run in ScratchBook'
+[4] 11:17:46:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:17:46:  ShowStatusInfo: 'Ready'
+[4] 11:17:46:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:17:46:  ShowStatusInfo: 'Ready'
+[4] 11:17:46:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:17:46:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:17:46:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 11:17:47:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 11:17:47:  ShowStatusInfo: 'Execution Running ...'
+[4] 11:18:15:  ShowStatusInfo: 'Processing execution results ...'
+[3] 11:18:15: AgentResults count: 1
+[3] 11:18:15: executionResponses count: 1
+[4] 11:18:16:  ShowStatusInfo: 'Run finalizing ...'
+[4] 11:18:16:  ShowStatusInfo: 'Run finished'
+[3] 11:18:16: Task 'Run' finished
+[4] 11:18:17:  ShowStatusInfo: 'Ready'
+[4] 11:18:17:  ShowStatusInfo: 'Run in ScratchBook finalizing ...'
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:18:17:  ShowStatusInfo: 'Ready'
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:18:17:  ShowStatusInfo: 'Ready'
+[4] 11:18:17:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:18:17:  ShowStatusInfo: 'Run in ScratchBook finished'
+[3] 11:18:17: Task 'Run in ScratchBook' finished
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 11:18:17:  ShowStatusInfo: 'Ready'
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 11:18:17:  ShowStatusInfo: 'Ready'
+[4] 11:18:17:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 11:18:17:  ShowStatusInfo: 'Refresh all finished'
+[4] 11:18:17:  ShowStatusInfo: 'Ready'
+[3] 11:21:37: Closing Workspace!
+[3] 11:21:37: Log closed!

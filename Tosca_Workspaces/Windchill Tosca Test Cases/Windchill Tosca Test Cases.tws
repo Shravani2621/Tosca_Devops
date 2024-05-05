@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Windchill Tosca Test Cases.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\Windchill Tosca Test Cases\Repository\Windchill Tosca Test Cases.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a0f464a-ffd5-811a-ec72-58d40f58a738</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>05408db9-39d0-42c3-9432-1cb9418ba72f</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

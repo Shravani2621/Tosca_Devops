@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TOSCASettings xmlns="TOSCANamespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Category name="Workspace">
+    <Setting name="SettingsDir" legacyPath="Workspace.SettingsDir">C:\Tosca_Projects\Tosca_Workspaces\Team Center Demo Use Cases\Settings</Setting>
+  </Category>
+</TOSCASettings>

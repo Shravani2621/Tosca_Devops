@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Testing Tosca Team Center.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\Testing Tosca Team Center\Repository\Testing Tosca Team Center.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1129f3-688d-ea28-df6a-50efd3b20ebd</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>d3d662bf-b60d-462a-ac4a-52b62b43f0fd</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>

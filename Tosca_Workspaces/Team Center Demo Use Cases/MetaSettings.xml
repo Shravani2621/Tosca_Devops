@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TOSCAMetaSettings xmlns="TOSCANamespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Definition>${TRICENTIS_HOME}\XML\Definition.xml</Definition>
+	<UserDefinitions>
+		<DefinitionFile>${TRICENTIS_ALLUSERS_APPDATA}\Settings\XML\UserDefinition.xml</DefinitionFile>
+  </UserDefinitions>
+	<Sources caseSensitive="false">
+		<XmlFile>${TRICENTIS_ALLUSERS_APPDATA}\License\License.xml</XmlFile>
+		<XmlFile>${TRICENTIS_HOME}\XML\DefaultSettings.xml</XmlFile>
+		<XmlFile>${TRICENTIS_ALLUSERS_APPDATA}\Settings\XML\Settings.xml</XmlFile>
+		<XmlFile template="${TRICENTIS_HOME}\XML\DefaultUserSettings.xml">${APPDATA}\TRICENTIS\Tosca Testsuite\7.0.0\Settings\XML\Settings.xml</XmlFile>
+		<XmlFile>.\Settings\ProjectSettings.xml</XmlFile>
+		<XmlFile>.\Settings\WorkspaceSettings.xml</XmlFile>
+	</Sources>
+	<Errors>
+		<DuplicateSetting conduct="ignore" />
+		<UndefinedSetting conduct="warning" />
+		<ConstraintViolation conduct="ignore" />
+		<MissingSetting conduct="error" />
+	</Errors>
+	<SettingsXsdFile>${TRICENTIS_HOME}\XSD\Settings.xsd</SettingsXsdFile>
+	<DefinitionXsdFile>${TRICENTIS_HOME}\XSD\Definition.xsd</DefinitionXsdFile>
+</TOSCAMetaSettings>

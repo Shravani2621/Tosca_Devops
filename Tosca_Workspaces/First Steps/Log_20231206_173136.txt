@@ -1,0 +1,95 @@
+[3] 17:31:36: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'
+[3] 17:31:36: Log level: 4
+[3] 17:31:36: Release: 23.1.0.2509
+[3] 17:31:36: PimpUp started
+[3] 17:31:36: Adding MetaInfo in SQLiteAdaptor
+ + Type: [211] AttachedExecutionLogEntryFile
+ + Assoc: [11:205] AttachedFiles
+
+[3] 17:31:36: Execution Approval is disabled.
+[3] 17:31:36: No service discovery configured.
+[3] 17:31:36:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.1.0.2509 (2509)
+[3] 17:31:36:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.1.0.2509 (2509)
+[3] 17:31:36:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.1.0.2509 (2509)
+[3] 17:31:36:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.1.0.2509 (2509)
+[3] 17:31:36:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.1.0.2509 (2509)
+[3] 17:31:36:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.1.0.2509 (2509)
+[3] 17:31:36:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.1.0.2509 (2509)
+    + : SAPSolutionManagerIntegration 23.1.0.2509 (2509)
+[3] 17:31:36: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 17:31:37: Searcher found 1 results in 85.0833 ms
+[3] 17:31:37:  + OptIntAddIn: OptIntAddIn 23.1.0.2509 (2509)
+[3] 17:31:37:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.1.0.2509 (2509)
+[3] 17:31:37:  + RemoteControl: RemoteControlAddIn 23.1.0.2509 (2509)
+[3] 17:31:37:  + Reporting: ReportingAddIn 23.1.0.2509 (2509)
+[3] 17:31:37:  + ReportingUI: ReportingUIAddIn 23.1.0.2509 (2509)
+[3] 17:31:37:  + RequirementsManagementAddIn: RequirementsManagement 23.1.0.2509 (2509)
+[3] 17:31:37:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.1.0.2509 (2509)
+[3] 17:31:37:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.1.0.2509 (2509)
+[3] 17:31:37:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.1.0.2509 (2509)
+[3] 17:31:37:  + TestCaseDesign: TestCaseDesign 23.1.0.2509 (2509)
+[3] 17:31:37:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.1.0.2509 (2509)
+[3] 17:31:37:  + XDefinitions: XDefinitions 23.1.0.2509 (2509)
+[3] 17:31:37:  + XDefinitionsUI: XDefinitionsUI 23.1.0.2509 (2509)
+[3] 17:31:37: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\First Steps\First Steps.tws'
+[3] 17:31:37: CommanderAssemblyResolver: Unable to resolve: System.XmlSerializers, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+[4] 17:31:40:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:31:40:  ShowStatusInfo: 'Ready'
+[4] 17:31:40:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:31:40:  ShowStatusInfo: 'Ready'
+[4] 17:31:40:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:31:40:  ShowStatusInfo: 'Refresh all finished'
+[4] 17:31:41:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:31:41:  ShowStatusInfo: 'Ready'
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:31:41:  ShowStatusInfo: 'Ready'
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh all finished'
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:31:41:  ShowStatusInfo: 'Ready'
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh navigation view 'Tutorial''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:31:41:  ShowStatusInfo: 'Ready'
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh detail view 'Tutorial''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:31:41:  ShowStatusInfo: 'Refresh all finished'
+[3] 17:31:41: OpenWorkspace took 00:00:05.9499366 to finish
+[2] 17:31:41: Common repository is not available
+[4] 17:31:46:  ShowStatusInfo: 'Ready'
+[3] 17:32:03: Closing Workspace!
+[3] 17:32:03: Log closed!

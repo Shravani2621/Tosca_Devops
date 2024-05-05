@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Windchill Demo Use Cases.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\Windchill Demo Use Cases\Repository\Windchill Demo Use Cases.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a119093-ffff-9572-4366-efe23f16e6a9</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>6e0285ba-50b2-4b76-87bf-438437da7008</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
