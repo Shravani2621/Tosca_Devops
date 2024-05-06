@@ -1,0 +1,90 @@
+[3] 15:37:35: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Devops_Intergration\Devops_Intergration.tws'
+[3] 15:37:35: Log level: 4
+[3] 15:37:35: Release: 23.2.0.3226
+[3] 15:37:35: Execution Approval is disabled.
+[3] 15:37:35: No service discovery configured.
+[3] 15:37:35:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.2.0.3226 (3226)
+    + : SAPSolutionManagerIntegration 23.2.0.3226 (3226)
+[3] 15:37:35: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 15:37:35: Searcher found 0 results in 65.9989 ms
+[3] 15:37:35:  + OptIntAddIn: OptIntAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + RemoteControl: RemoteControlAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + Reporting: ReportingAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + ReportingUI: ReportingUIAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + RequirementsManagementAddIn: RequirementsManagement 23.2.0.3226 (3226)
+[3] 15:37:35:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.2.0.3226 (3226)
+[3] 15:37:35:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.2.0.3226 (3226)
+[3] 15:37:35:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.2.0.3226 (3226)
+[3] 15:37:36:  + TestCaseDesign: TestCaseDesign 23.2.0.3226 (3226)
+[3] 15:37:36:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.2.0.3226 (3226)
+[3] 15:37:36:  + XDefinitions: XDefinitions 23.2.0.3226 (3226)
+[3] 15:37:36:  + XDefinitionsUI: XDefinitionsUI 23.2.0.3226 (3226)
+[3] 15:37:36: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Devops_Intergration\Devops_Intergration.tws'
+[3] 15:37:36: Trying to authenticate ldap user sss927832 against workspace
+[3] 15:37:38: Failed to authenticate ldap user against workspace
+[3] 15:37:39: Workspace.Login for 'Admin'succeeded
+[2] 15:37:40: CommanderAssemblyResolver: Unable to resolve: System.XmlSerializers, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+[4] 15:37:40:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:37:40:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:37:40:  ShowStatusInfo: 'Ready'
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 15:37:44:  ShowStatusInfo: 'Ready'
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Devops_Intergration''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 15:37:44:  ShowStatusInfo: 'Ready'
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Devops_Intergration''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:37:44:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 15:37:44:  ShowStatusInfo: 'Ready'
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh navigation view 'Devops_Intergration''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 15:37:44:  ShowStatusInfo: 'Ready'
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh detail view 'Devops_Intergration''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:37:44:  ShowStatusInfo: 'Refresh all finished'
+[3] 15:37:44: OpenWorkspace took 00:00:10.4261023 to finish
+[3] 15:37:44: File Service is disabled.
+[4] 15:37:49:  ShowStatusInfo: 'Ready'
+[4] 16:00:51:  ShowStatusInfo: '1 object selected'
+[4] 16:00:51:  ShowStatusInfo: 'Ready'
+[4] 16:00:52:  ShowStatusInfo: '1 object selected'
+[4] 16:00:52:  ShowStatusInfo: 'Ready'
+[3] 16:00:56: Closing Workspace!
+[3] 16:00:56: Log closed!

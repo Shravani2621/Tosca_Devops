@@ -1,0 +1,33 @@
+[3] 10:55:43: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Edge_Windchill_Tosca\Edge_Windchill_Tosca.tws'
+[3] 10:55:43: Log level: 4
+[3] 10:55:43: Release: 23.2.0.3226
+[3] 10:55:43: Execution Approval is disabled.
+[3] 10:55:43: No service discovery configured.
+[3] 10:55:43:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 10:55:43:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 10:55:43:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.2.0.3226 (3226)
+[3] 10:55:43:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.2.0.3226 (3226)
+[3] 10:55:43:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.2.0.3226 (3226)
+[3] 10:55:43:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.2.0.3226 (3226)
+[3] 10:55:43:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.2.0.3226 (3226)
+    + : SAPSolutionManagerIntegration 23.2.0.3226 (3226)
+[3] 10:55:43: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 10:55:44: Searcher found 0 results in 78.1525 ms
+[3] 10:55:44:  + OptIntAddIn: OptIntAddIn 23.2.0.3226 (3226)
+[3] 10:55:44:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.2.0.3226 (3226)
+[3] 10:55:44:  + RemoteControl: RemoteControlAddIn 23.2.0.3226 (3226)
+[3] 10:55:44:  + Reporting: ReportingAddIn 23.2.0.3226 (3226)
+[3] 10:55:44:  + ReportingUI: ReportingUIAddIn 23.2.0.3226 (3226)
+[3] 10:55:44:  + RequirementsManagementAddIn: RequirementsManagement 23.2.0.3226 (3226)
+[3] 10:55:44:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.2.0.3226 (3226)
+[3] 10:55:44:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.2.0.3226 (3226)
+[3] 10:55:44:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.2.0.3226 (3226)
+[3] 10:55:44:  + TestCaseDesign: TestCaseDesign 23.2.0.3226 (3226)
+[3] 10:55:44:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.2.0.3226 (3226)
+[3] 10:55:44:  + XDefinitions: XDefinitions 23.2.0.3226 (3226)
+[3] 10:55:44:  + XDefinitionsUI: XDefinitionsUI 23.2.0.3226 (3226)
+[3] 10:55:44: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Edge_Windchill_Tosca\Edge_Windchill_Tosca.tws'
+[4] 10:55:46:  ShowStatusInfo: 'Ready'
+[3] 10:56:00: Layout not saved: No Panels or Tabbed Documents
+[3] 10:56:00: Closing Workspace!
+[3] 10:56:00: Log closed!

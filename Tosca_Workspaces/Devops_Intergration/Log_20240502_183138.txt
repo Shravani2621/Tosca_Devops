@@ -1,0 +1,216 @@
+[3] 18:31:38: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Devops_Intergration\Devops_Intergration.tws'
+[3] 18:31:38: Log level: 4
+[3] 18:31:38: Release: 23.2.0.3226
+[3] 18:31:38: Execution Approval is disabled.
+[3] 18:31:38: No service discovery configured.
+[3] 18:31:38:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.2.0.3226 (3226)
+    + : SAPSolutionManagerIntegration 23.2.0.3226 (3226)
+[3] 18:31:38: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 18:31:38: Searcher found 0 results in 6.0746 ms
+[3] 18:31:38:  + OptIntAddIn: OptIntAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + RemoteControl: RemoteControlAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + Reporting: ReportingAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + ReportingUI: ReportingUIAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + RequirementsManagementAddIn: RequirementsManagement 23.2.0.3226 (3226)
+[3] 18:31:38:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.2.0.3226 (3226)
+[3] 18:31:38:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + TestCaseDesign: TestCaseDesign 23.2.0.3226 (3226)
+[3] 18:31:38:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.2.0.3226 (3226)
+[3] 18:31:38:  + XDefinitions: XDefinitions 23.2.0.3226 (3226)
+[3] 18:31:38:  + XDefinitionsUI: XDefinitionsUI 23.2.0.3226 (3226)
+[3] 18:31:38: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\Devops_Intergration\Devops_Intergration.tws'
+[3] 18:31:39: Trying to authenticate ldap user sss927832 against workspace
+[3] 18:31:40: Failed to authenticate ldap user against workspace
+[3] 18:31:41: Workspace.Login for 'Admin'succeeded
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Devops_Intergration''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 18:31:43:  ShowStatusInfo: 'Ready'
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Devops_Intergration''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 18:31:43:  ShowStatusInfo: 'Ready'
+[4] 18:31:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh all finished'
+[4] 18:31:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'Devops_Intergration''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 18:31:43:  ShowStatusInfo: 'Ready'
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'Devops_Intergration''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 18:31:43:  ShowStatusInfo: 'Ready'
+[4] 18:31:43:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 18:31:43:  ShowStatusInfo: 'Refresh all finished'
+[3] 18:31:43: OpenWorkspace took 00:00:06.2850324 to finish
+[3] 18:31:43: File Service is disabled.
+[4] 18:31:48:  ShowStatusInfo: 'Ready'
+[3] 18:32:06: Search started on 'Devops_Intergration' for query '->LostObjects'
+[3] 18:32:07: Searcher found 0 results in 510.5345 ms
+[3] 18:32:08: Search started on 'Devops_Intergration' for query '->LostObjects'
+[3] 18:32:08: Searcher found 0 results in 154.9936 ms
+[3] 18:32:10: Search started on 'Devops_Intergration' for query '=>SUBPARTS[(Name=?"")]'
+[3] 18:32:11: Searcher found 10409 results in 916.6233 ms
+[4] 18:32:21:  ShowStatusInfo: 'Refresh navigation view 'Devops_Intergration''
+[4] 18:32:21:  ShowStatusInfo: 'Ready'
+[4] 18:32:21:  ShowStatusInfo: 'Refresh detail view 'Devops_Intergration''
+[4] 18:32:21:  ShowStatusInfo: 'Ready'
+[4] 18:32:21:  ShowStatusInfo: 'Refresh view finished'
+[4] 18:32:24:  ShowStatusInfo: 'View Change History for Project: Connecting to Common Repository succeeded'
+[4] 18:32:24:  ShowStatusInfo: 'Ready'
+[4] 18:32:24:  ShowStatusInfo: 'View Change History for Project finished'
+[3] 18:32:24: Task 'View Change History for Project' finished
+[4] 18:32:29:  ShowStatusInfo: 'Ready'
+[3] 18:32:30: Task 'View Change History for Project' finished
+[4] 18:33:21:  ShowStatusInfo: 'Reconstructing changed clusters finished'
+[3] 18:33:21: Task 'Reconstructing changed clusters' finished
+[4] 18:33:26:  ShowStatusInfo: 'Ready'
+[4] 18:35:18:  ShowStatusInfo: '1 object selected'
+[4] 18:35:23:  ShowStatusInfo: 'Ready'
+[4] 18:35:39:  ShowStatusInfo: '1 object selected'
+[4] 18:35:39:  ShowStatusInfo: 'Ready'
+[3] 18:35:41: Task 'Checkout Tree' started on ''
+[4] 18:35:41:  ShowStatusInfo: 'Checkout Tree'
+[4] 18:35:42:  ShowStatusInfo: 'Checkout Tree: Connecting to Common Repository (timeout in 5 seconds) ... '
+[4] 18:35:42:  ShowStatusInfo: 'Checkout Tree: Connecting to Common Repository succeeded'
+[3] 18:35:43: Started update with local revision 66 against common revision 68 with deferred revisions ''
+[4] 18:35:43:  ShowStatusInfo: 'Checkout Tree: Connecting to Common Repository (timeout in 5 seconds) ... '
+[4] 18:35:43:  ShowStatusInfo: 'Checkout Tree: Connecting to Common Repository succeeded'
+[4] 18:35:43:  ShowStatusInfo: 'Checkout Tree: Collecting objects ... '
+[4] 18:35:44:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 18:35:44:  ShowStatusInfo: 'Ready'
+[4] 18:35:44:  ShowStatusInfo: 'Checkout Tree finalizing ...'
+[4] 18:35:44:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh navigation view 'Devops_Intergration''
+[4] 18:35:44:  ShowStatusInfo: 'Ready'
+[4] 18:35:44:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh detail view 'Devops_Intergration''
+[4] 18:35:44:  ShowStatusInfo: 'Ready'
+[4] 18:35:44:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 18:35:44:  ShowStatusInfo: 'Refresh all finished'
+[4] 18:35:44:  ShowStatusInfo: 'Checkout Tree finished'
+[3] 18:35:44: Task 'Checkout Tree' finished
+[4] 18:35:49:  ShowStatusInfo: 'Ready'
+[4] 18:35:57:  ShowStatusInfo: 'Update all: Connecting to Common Repository (timeout in 5 seconds) ... '
+[4] 18:35:57:  ShowStatusInfo: 'Update all: Connecting to Common Repository succeeded'
+[3] 18:35:57: Started update with local revision 68 against common revision 69 with deferred revisions ''
+[4] 18:35:57:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 18:35:57:  ShowStatusInfo: 'Ready'
+[4] 18:35:57:  ShowStatusInfo: 'Update all finalizing ...'
+[4] 18:35:57:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh navigation view 'Devops_Intergration''
+[4] 18:35:57:  ShowStatusInfo: 'Ready'
+[4] 18:35:57:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh detail view 'Devops_Intergration''
+[4] 18:35:57:  ShowStatusInfo: 'Ready'
+[4] 18:35:57:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 18:35:57:  ShowStatusInfo: 'Refresh all finished'
+[4] 18:35:57:  ShowStatusInfo: 'Update all finished'
+[3] 18:35:57: Task 'Update all' finished
+[4] 18:36:02:  ShowStatusInfo: 'Ready'
+[4] 09:28:12:  ShowStatusInfo: '1 object selected'
+[4] 09:28:17:  ShowStatusInfo: 'Ready'
+[4] 09:40:55:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository (timeout in 5 seconds) ... '
+[4] 09:40:55:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository succeeded'
+[3] 09:40:55: QTestIntegrationAddIn beginning to Export to QTest
+[3] 09:40:55: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 09:40:55: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 09:40:55: LinkTcToQTestService grouping testcases by same endpoint
+[3] 09:40:55: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 09:40:55: QTestIntegrationAddIn finished unlinking objects from QTest
+[4] 09:41:01:  ShowStatusInfo: 'Connecting to GitHub repository...'
+[3] 09:41:10: ObjectVersioning is enabled
+[3] 09:41:10: ObjectVersioning: Start collecting deleted objects
+[3] 09:41:10: ObjectVersioning: Finished collecting deleted objects
+[3] 09:41:10: ObjectVersioning: Begin creating changeset for 743 clusters.
+[3] 09:41:10: ObjectVersioning: Finished creating changeset.
+[4] 09:41:10:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 09:41:11:  ShowStatusInfo: 'Ready'
+[4] 09:41:11:  ShowStatusInfo: 'Checkin all finalizing ...'
+[4] 09:41:11:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh navigation view 'Devops_Intergration''
+[4] 09:41:11:  ShowStatusInfo: 'Ready'
+[4] 09:41:11:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh detail view 'Devops_Intergration''
+[4] 09:41:11:  ShowStatusInfo: 'Ready'
+[4] 09:41:11:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:41:11:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:41:11:  ShowStatusInfo: 'Checkin all finished'
+[3] 09:41:11: Task 'Checkin all' finished
+[3] 09:41:11: Closing Workspace!
+[3] 09:41:11: Log closed!

@@ -1,0 +1,32 @@
+[Info] 04-04-2024 10:30:15: Auto-exclusion started
+[Info] 04-04-2024 10:30:16: 0/100 - Unused objects exclusion
+[Info] 04-04-2024 10:30:16: 50/100 - Unused objects exclusion
+[Info] 04-04-2024 10:30:16: 100/100 - Unused objects exclusion
+[Info] 04-04-2024 10:30:16: Auto-exclusion finished
+[Info] 04-04-2024 10:30:27: 91/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 04-04-2024 10:30:27: Compacting started
+[Info] 04-04-2024 10:30:27: Compacting Workspace - Defragmentation finished in 00:00:00.3446633, database size: 7495680
+[Info] 04-04-2024 10:30:27: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0486522, database size: 7495680
+[Info] 04-04-2024 10:30:27: Compacting finished
+[Info] 04-04-2024 10:30:28: 97/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 04-04-2024 10:30:29: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 04-04-2024 10:30:30: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 04-04-2024 10:30:31: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 04-04-2024 10:30:32: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 04-04-2024 10:30:33: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12-04-2024 10:01:46: Auto-exclusion started
+[Info] 12-04-2024 10:01:47: 0/100 - Unused objects exclusion
+[Info] 12-04-2024 10:01:47: 50/100 - Unused objects exclusion
+[Info] 12-04-2024 10:01:47: 100/100 - Unused objects exclusion
+[Info] 12-04-2024 10:01:47: Auto-exclusion finished
+[Info] 12-04-2024 10:01:57: 93/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 12-04-2024 10:01:58: Compacting started
+[Info] 12-04-2024 10:01:58: Compacting Workspace - Defragmentation finished in 00:00:00.4121706, database size: 7495680
+[Info] 12-04-2024 10:01:58: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0491249, database size: 7495680
+[Info] 12-04-2024 10:01:58: Compacting finished
+[Info] 12-04-2024 10:01:58: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12-04-2024 10:01:59: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12-04-2024 10:02:00: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12-04-2024 10:02:01: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12-04-2024 10:02:02: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 12-04-2024 10:02:04: 99/100 - Defragmenting Data - [estimated time left 0 s]
