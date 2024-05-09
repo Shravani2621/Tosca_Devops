@@ -3,6 +3,7 @@
 # Navigate to the local repository directory
 cd D:\Tosca_Projects\Tosca_Devops
 dir
+git config --global core.editor "'C:\Program Files\Notepad++\notepad++.exe' -multiInst -nosession"
 git status
 git branch
 git checkout master
