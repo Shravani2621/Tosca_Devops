@@ -1,0 +1,76 @@
+[3] 12:00:29: Log started for 'D:\Tosca_Projects\Tosca_Devops\Tosca_Workspaces\Team Center Demo Use Cases\Team Center Demo Use Cases.tws'
+[3] 12:00:29: Log level: 4
+[3] 12:00:29: Release: 23.2.0.3226
+[3] 12:00:29: Execution Approval is disabled.
+[3] 12:00:29: No service discovery configured.
+[3] 12:00:29:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.2.0.3226 (3226)
+    + : SAPSolutionManagerIntegration 23.2.0.3226 (3226)
+[3] 12:00:29: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:00:29: Searcher found 0 results in 46.0883 ms
+[3] 12:00:29:  + OptIntAddIn: OptIntAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + RemoteControl: RemoteControlAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + Reporting: ReportingAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + ReportingUI: ReportingUIAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + RequirementsManagementAddIn: RequirementsManagement 23.2.0.3226 (3226)
+[3] 12:00:29:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.2.0.3226 (3226)
+[3] 12:00:29:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + TestCaseDesign: TestCaseDesign 23.2.0.3226 (3226)
+[3] 12:00:29:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.2.0.3226 (3226)
+[3] 12:00:29:  + XDefinitions: XDefinitions 23.2.0.3226 (3226)
+[3] 12:00:29:  + XDefinitionsUI: XDefinitionsUI 23.2.0.3226 (3226)
+[3] 12:00:29: TCShell started (23.2.0.3226)
+[4] 12:00:29: Current = 'Team Center Demo Use Cases'
+[3] 12:00:29: Command: jumptonode
+[4] 12:00:29: Current = 'UC_01_Creating a Part'
+[3] 12:00:29: Command: "/Execution/ExecutionLists_1/<New ExecutionList>/UC_01_Creating a Part" task
+[3] 12:00:30: Command: "clear log" task
+[3] 12:00:30: Task 'Run' started!
+[4] 12:00:30:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 12:00:30:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 12:00:31:  ShowStatusInfo: 'Execution Running ...'
+[4] 12:00:56:  ShowStatusInfo: 'Processing execution results ...'
+[3] 12:00:56: AgentResults count: 1
+[3] 12:00:56: executionResponses count: 1
+[3] 12:00:57: Task 'Run' finished
+[3] 12:00:57: Command: run save
+[3] 12:00:57:  Save started!
+[3] 12:00:57: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:00:57: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:00:57: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:00:57: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:00:57: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:00:57: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:00:57:  Save finished!
+[3] 12:00:57: Command: jumptonode
+[4] 12:00:57: Current = 'UC_01 a_Creating a Part with Document'
+[3] 12:00:57: Command: "/Execution/ExecutionLists_1/<New ExecutionList>_2/UC_01 a_Creating a Part with Document" task
+[3] 12:00:57: Command: "clear log" task
+[3] 12:00:57: Task 'Run' started!
+[4] 12:00:57:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 12:00:58:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 12:00:58:  ShowStatusInfo: 'Execution Running ...'
+[4] 12:01:08:  ShowStatusInfo: 'Processing execution results ...'
+[3] 12:01:08: AgentResults count: 1
+[3] 12:01:08: executionResponses count: 1
+[3] 12:01:09: Task 'Run' finished
+[3] 12:01:09: Command: run save
+[3] 12:01:09:  Save started!
+[3] 12:01:09: QTestIntegrationAddIn beginning to Export to QTest
+[3] 12:01:09: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 12:01:09: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 12:01:09: LinkTcToQTestService grouping testcases by same endpoint
+[3] 12:01:09: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 12:01:09: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 12:01:09:  Save finished!
+[4] 12:01:10: Current = 'Team Center Demo Use Cases'
+[3] 12:01:10: Closing Workspace!
+[3] 12:01:10: Closing Workspace!
+[3] 12:01:10: Log closed!

@@ -3,7 +3,7 @@
   <WorkspaceRepository>
     <RepoClass>SQLiteRepository</RepoClass>
     <DatabasePathAndName>.\Repository\Team Center Demo Use Cases.db</DatabasePathAndName>
-    <Database>C:\Tosca_Projects\Tosca_Workspaces\Team Center Demo Use Cases\Repository\Team Center Demo Use Cases.db</Database>
+    <Database>D:\Tosca_Projects\Tosca_Devops\Tosca_Workspaces\Team Center Demo Use Cases\Repository\Team Center Demo Use Cases.db</Database>
     <DatabaseUser />
     <DatabasePwd />
     <DatabaseSchema />

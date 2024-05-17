@@ -1,0 +1,38 @@
+[3] 11:58:22: Log started for 'D:\Tosca_Projects\Tosca_Devops\Tosca_Workspaces\Team Center Demo Use Cases\Team Center Demo Use Cases.tws'
+[3] 11:58:22: Log level: 4
+[3] 11:58:22: Release: 23.2.0.3226
+[3] 11:58:23: Execution Approval is disabled.
+[3] 11:58:23: No service discovery configured.
+[3] 11:58:23:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.2.0.3226 (3226)
+    + : SAPSolutionManagerIntegration 23.2.0.3226 (3226)
+[3] 11:58:23: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 11:58:23: Searcher found 0 results in 52.9369 ms
+[3] 11:58:23:  + OptIntAddIn: OptIntAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + RemoteControl: RemoteControlAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + Reporting: ReportingAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + ReportingUI: ReportingUIAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + RequirementsManagementAddIn: RequirementsManagement 23.2.0.3226 (3226)
+[3] 11:58:23:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.2.0.3226 (3226)
+[3] 11:58:23:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + TestCaseDesign: TestCaseDesign 23.2.0.3226 (3226)
+[3] 11:58:23:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.2.0.3226 (3226)
+[3] 11:58:23:  + XDefinitions: XDefinitions 23.2.0.3226 (3226)
+[3] 11:58:23:  + XDefinitionsUI: XDefinitionsUI 23.2.0.3226 (3226)
+[3] 11:58:23: TCShell started (23.2.0.3226)
+[4] 11:58:23: Current = 'Team Center Demo Use Cases'
+[3] 11:58:23: Command: jumptonode
+[4] 11:58:23: Current = 'UC_01_Creating a Part'
+[3] 11:58:23: Command: "/Execution/ExecutionLists_1/<New ExecutionList>/UC_01_Creating a Part" task
+[3] 11:58:23: Command: "clear log" task
+[3] 11:58:23: Task 'Run' started!
+[4] 11:58:23:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 11:58:23:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 11:58:24:  ShowStatusInfo: 'Execution Running ...'
