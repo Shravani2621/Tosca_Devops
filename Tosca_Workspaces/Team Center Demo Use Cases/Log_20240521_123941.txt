@@ -1,0 +1,35 @@
+[3] 12:39:41: Log started for 'D:\Tosca_Projects\Tosca_Devops\Tosca_Workspaces\Team Center Demo Use Cases\Team Center Demo Use Cases.tws'
+[3] 12:39:41: Log level: 4
+[3] 12:39:41: Release: 23.2.0.3226
+[3] 12:39:41: Execution Approval is disabled.
+[3] 12:39:41: No service discovery configured.
+[3] 12:39:41:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + DistributedExecutionAddIn: DistributedExecutionAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + IntegrationManagementAddIn: IntegrationManagementAddIn 23.2.0.3226 (3226)
+    + : SAPSolutionManagerIntegration 23.2.0.3226 (3226)
+[3] 12:39:41: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:39:41: Searcher found 0 results in 54.0278 ms
+[3] 12:39:41:  + OptIntAddIn: OptIntAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + QTestIntegrationAddIn: QTestIntegrationAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + RemoteControl: RemoteControlAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + Reporting: ReportingAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + ReportingUI: ReportingUIAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + RequirementsManagementAddIn: RequirementsManagement 23.2.0.3226 (3226)
+[3] 12:39:41:  + RequirementsManagementUIAddIn: RequirementsManagementUI 23.2.0.3226 (3226)
+[3] 12:39:41:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + TestCaseDesign: TestCaseDesign 23.2.0.3226 (3226)
+[3] 12:39:41:  + ControlFlowDiagram: TestCaseVisualizationAddIn 23.2.0.3226 (3226)
+[3] 12:39:41:  + XDefinitions: XDefinitions 23.2.0.3226 (3226)
+[3] 12:39:41:  + XDefinitionsUI: XDefinitionsUI 23.2.0.3226 (3226)
+[3] 12:39:41: TCShell started (23.2.0.3226)
+[4] 12:39:41: Current = 'Team Center Demo Use Cases'
+[3] 12:39:41: Command: jumptonode
+[4] 12:39:41: Current = 'Team Center Demo Use Cases'
+[3] 12:39:41: Closing Workspace!
+[3] 12:39:41: Closing Workspace!
+[3] 12:39:41: Log closed!

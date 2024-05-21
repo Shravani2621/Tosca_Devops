@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e294e530-c911-4106-b52f-d41df5cffa73" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Tosca_Workspaces/Team Center Demo Use Cases/Admin_GUILayout.tcl" beforeDir="false" afterPath="$PROJECT_DIR$/Tosca_Workspaces/Team Center Demo Use Cases/Admin_GUILayout.tcl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tosca_Workspaces/Team Center Demo Use Cases/Repository/Team Center Demo Use Cases.db" beforeDir="false" afterPath="$PROJECT_DIR$/Tosca_Workspaces/Team Center Demo Use Cases/Repository/Team Center Demo Use Cases.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tosca_Workspaces/Team Center Demo Use Cases/Repository/compacting/Log_202405.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tosca_Workspaces/Team Center Demo Use Cases/Repository/compacting/Log_202405.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tosca_Workspaces/Team Center Demo Use Cases/Repository/compacting/runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tosca_Workspaces/Team Center Demo Use Cases/Repository/compacting/runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/push_pull_github.sh" beforeDir="false" afterPath="$PROJECT_DIR$/push_pull_github.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2gldUyVUwYi3QiCw8ZWRFbR9wY1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e294e530-c911-4106-b52f-d41df5cffa73" name="Changes" comment="" />
+      <created>1716276118282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716276118282</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the local repository directory
-cd C:\Tosca_Projects\ToscaGithub
+cd D:\Tosca_Projects\Tosca_Devops
 dir
 git config --global core.editor "'C:\Program Files\Notepad++\notepad++.exe' -multiInst -nosession"
 git status
